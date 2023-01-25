@@ -17,6 +17,7 @@ Schools in PyCity have wide range of achievement in reading and math. An analysi
 One might look at this data and conclude that smaller charter schools with less spending have better outcomes. However, further analysis is required, because none of the schools showed appreciable changes in reading or math test scores for students as they progressed from 9th through 12th grades. If one category of school was appreciably more or less effective, one would expect to see student achievement either improve or degrade over the 4-year period.
 
 Please note the following table showing the average reading scores by grade, as an example:
+```text
                         9th	10th	11th	12th
 Pena High School	83.63	83.37	84.33	84.12
 Shelton High School	83.42	82.92	83.38	83.78
@@ -33,3 +34,4 @@ Figueroa High School	76.40	76.54	76.88	77.15
 Johnson High School	77.19	76.69	77.49	76.86
 Bailey High School	77.08	77.00	77.52	76.49
 Ford High School	77.36	77.67	76.92	76.18
+```
